@@ -1,1 +1,1 @@
-This is a bug fix repo
+This is a sample repo
